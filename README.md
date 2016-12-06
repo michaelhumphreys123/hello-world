@@ -1,2 +1,2 @@
 # hello-world
-This is my forst GitHob repository
+This is my forst GitHub repository
